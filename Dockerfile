@@ -12,6 +12,6 @@ RUN ./configure --disable-wallet --disable-tests
 RUN make
 RUN make install
 
-EXPOSE 8332 8333
+EXPOSE 8332 8333 18332 18333 28332
 
 CMD ["bitcoind"]
