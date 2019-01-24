@@ -1,3 +1,8 @@
+# docker-bitcoinsv
+
+[![Image Layers](https://images.microbadger.com/badges/image/kevinejohn/bitcoinsv.svg)](https://microbadger.com/images/kevinejohn/bitcoinsv)
+[![Docker Pulls](https://img.shields.io/docker/pulls/kevinejohn/bitcoinsv.svg)](https://hub.docker.com/r/kevinejohn/bitcoinsv/)
+
 # How to use
 
 ```
